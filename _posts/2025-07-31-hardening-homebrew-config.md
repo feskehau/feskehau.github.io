@@ -1,6 +1,6 @@
 ---
 title: "Hardening configuration of Homebrew on MacOS"
-image: "../assets/img/2025-06-31-hardening-homebrew.png"
+image: "../assets/img/2025-06-31-hardening-homebrew-config.png"
 categories: [MacOS]
 tags: ["macos", "homebrew", "security"]
 ---
