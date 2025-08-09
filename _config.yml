@@ -40,8 +40,6 @@ social:
     # The first element serves as the copyright owner's link
     - /contact
     - https://github.com/feskehau # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/tony-hesjevik
 
 # Site Verification Settings
